@@ -58,4 +58,4 @@ El bot UTYBot y su código son propiedad intelectual de su desarrollador. Todos 
 
 ---
 
-Hecho con <i data-lucide="heart" class="inline-block w-3 h-3 text-red-500/50 fill-current"></i> y algo de café cósmico.
+Hecho con ♥️ y algo de café cósmico.
